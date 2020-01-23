@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello Cunt, SUCK MY DICK!!!"
+      logoText = "Greetings Traveller!!!"
       logoHomeLink = "/"
     # or
     #
@@ -39,9 +39,9 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/post"
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://linkedin.com/in/dowsen-pereira-297028186"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
