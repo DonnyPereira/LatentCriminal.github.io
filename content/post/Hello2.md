@@ -2,7 +2,7 @@
 title = "Introduction"
 date = "2020-01-23"
 author = "Dowsen"
-cover = "img/test.jpg"
+cover = "img/Pic.jpg"
 description = "Take the red pill, and I'll show you how deep this rabbit hole goes... **— Morpheus**"
 +++
 
