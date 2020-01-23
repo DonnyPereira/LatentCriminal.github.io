@@ -3,7 +3,7 @@ title = "Introduction"
 date = "2020-01-23"
 author = "Dowsen"
 cover = "img/test.jpg"
-description = "Take the red pill, and I'll show you how deep this rabbit hole goes... **-Morpheus**"
+description = "Take the red pill, and I'll show you how deep this rabbit hole goes... **— Morpheus**"
 +++
 
 Greetings, My name is Dowsen although most of my friends refer to me as "Donny". I am currently
