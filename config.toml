@@ -15,8 +15,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Dowsen"
+    subtitle = "Blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -43,6 +43,6 @@ paginate = 5
         name = "LinkedIn"
         url = "https://linkedin.com/in/dowsen-pereira-297028186"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "Github"
+        name = "Github"
+        url = "https://github.com/LatentCriminal/LatentCriminal.github.io"
