@@ -56,7 +56,17 @@ have a cover image abstractly representing the post as well as the date and a ti
 make the site neat and easier to read. One of the other reasons for choosing this theme was that the font was well-suited to reading, especailly with the dark theme.
 
 
-
 ### SLO4 — collaborate and communicate
 
-### SLO5 — conduct self, peer and team review 
+I collaborated a lot on the first day due to my absence and with the help of my peers I was able to get up to speed relatively easily. Furthermore, I helped my friend with his website when he had problems trying to get
+an image for his first post. In addition, when the guest speaker came in to talk to the students about life in cybersecurity, I was able to articulate my need for advice for beginners in the cybersecurity field. I asked because 
+I needed to know but also because there were other students from my course who were also beginners. I also came in to the non-mandatory Wednesday session to meet others who also needed help on their websites. After meeting these 
+students, I've been able to communicate with them better and vice versa.
+
+
+### SLO5 — conduct self, peer and team review
+
+In terms of my performance, there were some areas I would like to focus on such as attention to detail and also maintaining focus as I tend to make silly mistakes. On a more positive note, I am
+happy with my performance and willingness to finish this before the due date. As soon as I arrived back, I started on the website and grinded until I could not go further. With the help from the tutors
+by Wednesday my site was live and by Friday my website was finished. In terms of my peers, the students have been incredably helpful and are really easy to get along with. Most of my peers, like me, strived to
+finish the website as soon as possible and learn as much as they could while doing it. The tutors are also really helpful and easy to work with.
