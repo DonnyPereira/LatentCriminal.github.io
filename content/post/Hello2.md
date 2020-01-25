@@ -20,12 +20,13 @@ There are a few reasons for me choosing the Studio;
 * I believe the subject is a good oppurtunity to get to meet other cybersecurity students.
 * As a beginner in cybersecurity, I thought this subject would allow me to bootstrap my knowledge in cybersecurity and penetration testing.
 
-# My Expectations
+# My expectations
 My expections for this Studio are as such:
 - To get some practical, hands-on experience with hacking, by hacking I mean using tools like Kali linux to actually break into a system.
 - To introduce me to penetration testing.
 - To build relationships with others who do cybersecurity at UTS.
 - To learn about cybersecurity in general as well as certifications and pathways to getting a job.
+- To become competent and then proficient with using kali Linux.
 
 
 
