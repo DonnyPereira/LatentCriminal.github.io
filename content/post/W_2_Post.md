@@ -3,13 +3,17 @@ title = "Week 2 Sprint evaluation"
 date = "2020-02-01"
 author = "Dowsen"
 cover = ""
-description = "A refletion of the progress made in week 2"
+description = "A reflection of the progress made in week 2"
 +++
 
 ### SLO1 — Introduction 
 This week the sprint contained 2 amazing guest speakers and a deliverable for Thursday. The first speaker was Patrick S. Kelso who worked in B1 as part if the UTS cybersecurity team. This week I met Mark, the 3rd tutor who also worked with Patrick. The deliverable was a group oral presentation wherein the group had to research a scanning tool and then present it to the class. It was interesting because each group presented on different tools, how they were used, and some even had a live demo. I found this useful as I learnt about the tool I was assigned as well as the other tools chosen. Furthermore, I also learnt about the pen testing methodology which was cool. On the Thursday, the groups presented, it was obvious that everyone put in a lot of effort into their work. 
 
+
+
 In my opinion, I really like the harvester group, simply because they managed to put in a live demo, even if they were cut off, the fact that they were so organised to put in a full demo was amazing. Furthermore, one of my general goals for this week was to get some experience with the wargames like overthewire. Coincidentally, the agenda for the day was to engage in some wargames. I started on Bandit on overthewire.org and did as much as I could making sure to document things like; how I passed the level, the password I recovered, any troubles I had or things I learnt. It was a fun experience and I can't wait to try the others. At the time of writing this post I am up to level 6, my goals for the end of next week is to get to level 20, start the NATAS game and try out the picoctf because that look really fun. Outside of University, I've been preparing to study for my CompTIA A+, Linux+ and Security+.
+
+{{<image src="/img/Wk2Arti1.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### SLO1 — Engage with stakeholders to identify the problem
 
@@ -27,10 +31,16 @@ After Patrick's talk, I started googling resources for my Linux+ exam. CompTIA's
 
 A cool thing about the IT community is that there are a lot of people on Youtube with their own discords that go through their experiences with these exams. In terms of the video course, a youtuber by the name of network chuck who was also studying for the Linux+ exam recommended a video course by Shawn powers. There were a few books I could get, but the discord communities I was in all suggested the exam guide by CompTIA since they wrote the exam, these books are expensive so I only plan to get this one. In terms of the lab, I already had CentOS on my laptop. However I didn't want to also boot CentOS on my desktop as well as Manjaro. luckily, once again the community came to my aid. NetworkChuck had mentioned using Microsoft Azure as you can set up full Linux distributions at the drop of a hat. This was really useful because I could spin up both Kali and CentOS or even Manjaro whenever I pleased. Another benefit, is that I also get to learn about the cloud in the process and since I hate VMs this was a better option for me. Not to mention if I break something, then I could simply spin up a new distribution. 
 
+{{<image src="/img/Wk2Arti2.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 ### SLO3 — Apply technical skills to develop, model or evaluate designs.
 Since I was planning to take the Linux+, I started on Bandit for my first wargame. Bandit is a great resource because its fun and would be a great way to study for Linux+ since it is challenge based. It's also a great resource if I get bored just watching the video course or reading the book. My plan to tackle overall learning of linux is a when I learn something in centOS from the Linux+ course, I will try to do the same with Kali and Manjora in Azure thus understanding how things change between distributions.
 
-Another great resource is linux academy which is a lot like codecademy but for linux, since I learn more through labs and practicals, this is a really good resource. It is free but I will probably get the paid version since it has more resources, it is $450 a year so I'll have to save up a bit for it. I also have a raspberry pi 3 at home, I never actually used it because I never had the time since I bought it. Now that I have an actual schedule and I am able to balance things, I will able to have time to actually use it. I always wanted to build my own home server so this will be really helpful to do that. My goal for this week is to properly schedule in time to study for this exam as well as well as for Security+ and A+.
+{{<image src="/img/Wk2Arti3.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
+Another great resource is linux academy (above) which is a lot like codecademy but for linux, since I learn more through labs and practicals, this is a really good resource. It is free but I will probably get the paid version since it has more resources, it is $450 a year so I'll have to save up a bit for it. I also have a raspberry pi 3 at home (below), I never actually used it because I never had the time since I bought it. Now that I have an actual schedule and I am able to balance things, I will able to have time to actually use it. I always wanted to build my own home server so this will be really helpful to do that. My goal for this week is to properly schedule in time to study for this exam as well as well as for Security+ and A+.
+
+{{<image src="/img/Wk2Arti4.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### SLO4 — collaborate and communicate
 
@@ -40,7 +50,9 @@ During Patricks talk, I asked him, "as a beginner", how would I become a master 
 
 Nevertheless, he drove home the point that no matter how much he learned, there was so much more he could learn. He stated that the most important part of his learning was when something unexpected happened that stopped him from going about his work. No matter how much knowledge he had, he didn’t have total knowledge, only that which he learned. I realised that this was something I really needed to hear. I had a raspberry Pi 3 at home that I had never used since I thought that I had to learn to use linux first. But it came apparent to me that the best way to learn was to get stuck in and do what I could.
 
-Furthermore he gave us some great resources like Unixporn which is a reddit where people post their linux *nix customisations. It's interesting to look at and use as a goal because it would be a good goal to be so comfortable at using Unix/linux that I can customise however I want and make it look beautiful too. It is also good because it has tutorials for each post and how they did it, so if I see a cool one, I can do it too. Without a doubt, this has motivated me want to learn linux so much and to also one day make my own distribution. He also went through using Linux. It was hard for me to fully follow through but I wrote down notes of important things he mentioned as well as other things that caught my eye. We also talked about how to play certain games in Linux. He inspired me to start using Manjora on my desktop and try to get the games on steam to work as a challenge.
+Furthermore he gave us some great resources like Unixporn which is a reddit where people post their linux *nix customisations. It's interesting to look at and use as a goal because it would be a good goal to be so comfortable at using Unix/linux that I can customise however I want and make it look beautiful too. It is also good because it has tutorials for each post and how they did it, so if I see a cool one, I can do it too. Without a doubt, this has motivated me want to learn linux so much and to also one day make my own distribution. He also went through using Linux. It was hard for me to fully follow through but I wrote down notes of important things he mentioned as well as other things that caught my eye. We also talked about how to play certain games in Linux. He inspired me to start using Manjora on my desktop and try to get the games on steam to work as a challenge. Below is his card.
+
+{{<image src="/img/Wk2Arti5.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### SLO5 — conduct self, peer and team review
 
@@ -51,6 +63,8 @@ that we had. The first thing our group did was establish communication and deleg
 The rest of the Tuesday was just filled with each member googling the required information for their part. We also messaged our missing group member of his work and offered any support he needed. Luckily for us, all the members of our group were diligent workers and were able to get started on their part relatively independently. I decided to get the task out of the way as soon as possible because I knew I wouldn't be able to get anything done the next day as it was my Birthday. I stayed back for some time at Uni to get most of it done, and when I got home, I decided to basically finish it off. The next day I had some spare time that allowed me to review my part and make any additional changes. The rest of the group pretty much did the same and once all of us were done, we posted our work on the teams chat. On the Thursday we were ready to present. 
 
 The presentation went pretty well in my opinion, I think my voice could have been a bit louder but apart from that I think my part was pretty ok. The rest of the members did their parts well too in my opinion, Philips voice was a bit low but he was sick and further away from us, we got cut off but then again that was the whole point so we all understood. It was interesting to hear that we'd have to develop the ability to explain something complicated in a shortened time frame and it was even better to get some experience doing it. Overall, I am satisfied with my effort as well as that of the teams and I have no outstanding problems. One thing I noted down was introducing myself at the beginning of the speech, my goal now is to do better in my next team project.
+
+{{<image src="/img/Wk2Arti0.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### SLO1 — Conclusion
 
