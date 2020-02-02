@@ -40,7 +40,7 @@ Since I was planning to take the Linux+, I started on Bandit for my first wargam
 
 Another great resource is linux academy (above) which is a lot like codecademy but for linux, since I learn more through labs and practicals, this is a really good resource. It is free but I will probably get the paid version since it has more resources, it is $450 a year so I'll have to save up a bit for it. I also have a raspberry pi 3 at home (below), I never actually used it because I never had the time since I bought it. Now that I have an actual schedule and I am able to balance things, I will able to have time to actually use it. I always wanted to build my own home server so this will be really helpful to do that. My goal for this week is to properly schedule in time to study for this exam as well as well as for Security+ and A+.
 
-{{<image src="/img/Wk2Arti4.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk2Arti4.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### SLO4 — collaborate and communicate
 
@@ -52,7 +52,7 @@ Nevertheless, he drove home the point that no matter how much he learned, there 
 
 Furthermore he gave us some great resources like Unixporn which is a reddit where people post their linux *nix customisations. It's interesting to look at and use as a goal because it would be a good goal to be so comfortable at using Unix/linux that I can customise however I want and make it look beautiful too. It is also good because it has tutorials for each post and how they did it, so if I see a cool one, I can do it too. Without a doubt, this has motivated me want to learn linux so much and to also one day make my own distribution. He also went through using Linux. It was hard for me to fully follow through but I wrote down notes of important things he mentioned as well as other things that caught my eye. We also talked about how to play certain games in Linux. He inspired me to start using Manjora on my desktop and try to get the games on steam to work as a challenge. Below is his card.
 
-{{<image src="/img/Wk2Arti5.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk2Arti5.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### SLO5 — conduct self, peer and team review
 
