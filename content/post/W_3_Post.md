@@ -1,9 +1,9 @@
 +++
 title = "Week 3 Sprint evaluation"
 date = "2020-02-09"
-author = "Dowsen"
+author = "Donny"
 cover = ""
-description = "A reflection of the progress made in week 2"
+description = "A reflection of the progress made in week 3"
 +++
 
 ### SLO1 — Introduction 
