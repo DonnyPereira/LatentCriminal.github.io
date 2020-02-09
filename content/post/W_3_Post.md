@@ -27,17 +27,17 @@ The theme of this week is web application pen testing.
     6) Remember things I have learnt
 
 ### How it will be achieved
-	- Since I have most things already on my Google Calendar, I simply have to find out how much time per week I will allocate to studying the CompTIA certifications. I will complete this by Monday so I can schedule them in for the rest of the week.
+* Since I have most things already on my Google Calendar, I simply have to find out how much time per week I will allocate to studying the CompTIA certifications. I will complete this by Monday so I can schedule them in for the rest of the week.
 	
-	- Every day I will document how much of the day I did well and give it a score out of 100 starting from Monday. Also I will aim for accumulative improvement because it will take time for me to develop focus. So, if I only manage to hit one day with 50% accuracy, then my goal the next day is to achieve at least 51%. In other words, the goal is to finish the day better than I was at the start and over time become more efficient. 
+- Every day I will document how much of the day I did well and give it a score out of 100 starting from Monday. Also I will aim for accumulative improvement because it will take time for me to develop focus. So, if I only manage to hit one day with 50% accuracy, then my goal the next day is to achieve at least 51%. In other words, the goal is to finish the day better than I was at the start and over time become more efficient. 
 	
-	- I will aim to finish my part of the deliverable as soon as possible thus giving me more time throughout the week to study this. I will utilise the resources on the week 3 slides especially the practical ones because I learn best through labs.  
+- I will aim to finish my part of the deliverable as soon as possible thus giving me more time throughout the week to study this. I will utilise the resources on the week 3 slides especially the practical ones because I learn best through labs.  
 	
-	- I will allocate at least 1 hour of these week to a particular war games. It isn't much but since there are so many wargames I feel this will suffice. I will also make sure to write down every step I so that I can view them at any time and see my though processes as well as learn from my mistakes. 
+- I will allocate at least 1 hour of these week to a particular war games. It isn't much but since there are so many wargames I feel this will suffice. I will also make sure to write down every step I so that I can view them at any time and see my though processes as well as learn from my mistakes. 
 
-	- I have bootcamp workshop that gets right into starting with a raspberry Pi, I will spend at least 2 hours this week just getting into it at doing what I can in those 2 hours even though it might not be much, it's still a start.
+- I have bootcamp workshop that gets right into starting with a raspberry Pi, I will spend at least 2 hours this week just getting into it at doing what I can in those 2 hours even though it might not be much, it's still a start.
 
-	-I discovered this really cool app called Anki, it is a flashcard app that syncs across mobile and pc. It’s has spaced repitition, in other words if you get an answer right it won't show that card again for an extended period of time, If you get it wrong however it will show you that card again in a shorter period of time. This really helps me because I tend to forget basics after I've studied them but with this app I can resolve that.
+-I discovered this really cool app called Anki, it is a flashcard app that syncs across mobile and pc. It’s has spaced repitition, in other words if you get an answer right it won't show that card again for an extended period of time, If you get it wrong however it will show you that card again in a shorter period of time. This really helps me because I tend to forget basics after I've studied them but with this app I can resolve that.
 
 ### Monday
 
@@ -91,8 +91,8 @@ The last wargame I tried for the night was the SQLi module on portswigger. Altho
 ### Thursday
 Started the day as always with a stand up meeting. I was happy to report that I had completed a number of ctf's from different vendors. Last week one of my goals was to try the other ctf's since I hadn't managed my time well and only did a small number of bandit exercises. I am really happy with my progress for two reasons;
 
-	-  Firstly, because my plan to overcome my time-restraints by properly building a schedule worked. Therefore I can clearly see that I have progressed further towards my goal of being more efficient.
-	- Secondly, by doing the other ctf's I have also learned more in different cyber security areas. In other words, with just bandit I was able to reaffirm my knowledge of Linux. With the other sites like Natas, Portswigger and  Hacksplaining however, I was able to learn about many different things like SQl injection, Cross site scripting, basic web application function.
+* Firstly, because my plan to overcome my time-restraints by properly building a schedule worked. Therefore I can clearly see that I have progressed further towards my goal of being more efficient.
+* Secondly, by doing the other ctf's I have also learned more in different cyber security areas. In other words, with just bandit I was able to reaffirm my knowledge of Linux. With the other sites like Natas, Portswigger and  Hacksplaining however, I was able to learn about many different things like SQl injection, Cross site scripting, basic web application function.
 	
 Although I wasn't able to get far, it was reassuring to me that others like Hayden also got stuck at level 3. Larry also drove home the point that our slow progress through the levels wasn't an indication of failure but rather proved that the challenges were in fact difficult. Or at least difficult enough for beginners like us. I learn a lot by practical labs which is why I really love the cyber security wargames. I learn well and I actually enjoy what I am doing so I am very motivated to do it.
 
@@ -124,5 +124,4 @@ The afternoon was pretty productive since I started on my studies for my CompTIA
 I also got back into Kick-Boxing, it was really nice to train with the masters again. It was a great way to reduce stress from work while helping with cardio training. I had to work mostly on these 2 days so I spent the majority of my time writing up and editing my portfolio as well as fixing up my resume.
 
 ### Conclusion
-
-This week went pretty well, even with my birthday celebrations and work I had managed to keep on top of my work. Furthermore, after my interview with the tutors, I was told that my effort so far was good and that I need to keep up the good work. I was happy to hear this and I plan to put in as much effort as I can into this studio. The people in the studio are amazing, the content we learn is great, and I will say that it is definately my favourite subject so far at UTS. Unlike the other subjects, the tutors are easier to talk to since they were recently at our stage and moreso the work is really practical which I like. My goals for next week are to keep my effort up, Schedule in the time outside of Uni to study for CompTIA exams, and to finish as many war games as I can.
+There are definately things for me to improve upon, mostly procrastination during study time. However compared to week 2, I have progressed a lot and I am proud of that. I've had so much fun working with my group for the deilverable. I also cannot state just how much I am learning each day thanks to this summer studio. Furthermore, I'm making sure to balance life by doing things like diving and Kick-boxing so to ensure I don't waste my youth. And lastly I cannot wait for the ninja night from Sectalk and the same goes for Bsides which I hav already bought my ticket for. Until then, peace out! 
