@@ -7,7 +7,7 @@ description = "A reflection of the progress made in week 3"
 +++
 
 ### SLO1 — Introduction 
-The theme of this week is web application pen testing.
+The theme of this week is boot2root.
 
  I have also gotten a lot better at using a schedule. One thing I have found which I have included in my portfolio this week is my declaration of goals, justifications for them, and methods for achievement . By clearly defining my goals in a non-abstract concrete way, I have a target to aim at and I can clearly see if my actions are producing positive/negative results.  The methods of achievement are my way of breaking the goal down into manageable chunks and clearly defining the path I will take to achieve them. This is really important because I use this to make my schedule.
 
@@ -20,28 +20,14 @@ The theme of this week is web application pen testing.
 	
 	3) I would like to learn about as much of the web pen testing tools as possible, Document whatever I have done on the and upload it all on Sunday.
 	
-	4) I would like to start on each war game.
-	
-	5) If possible I would also like to start working on my Raspberry Pi.
-
-    6) Remember things I have learnt
 
 ### How it will be achieved
 * Since I have most things already on my Google Calendar, I simply have to find out how much time per week I will allocate to studying the CompTIA certifications. I will complete this by Monday so I can schedule them in for the rest of the week.
 	
 - Every day I will document how much of the day I did well and give it a score out of 100 starting from Monday. Also I will aim for accumulative improvement because it will take time for me to develop focus. So, if I only manage to hit one day with 50% accuracy, then my goal the next day is to achieve at least 51%. In other words, the goal is to finish the day better than I was at the start and over time become more efficient. 
-	
-- I will aim to finish my part of the deliverable as soon as possible thus giving me more time throughout the week to study this. I will utilise the resources on the week 3 slides especially the practical ones because I learn best through labs.  
-	
-- I will allocate at least 1 hour of these week to a particular war games. It isn't much but since there are so many wargames I feel this will suffice. I will also make sure to write down every step I so that I can view them at any time and see my though processes as well as learn from my mistakes. 
+-
 
-- I have bootcamp workshop that gets right into starting with a raspberry Pi, I will spend at least 2 hours this week just getting into it at doing what I can in those 2 hours even though it might not be much, it's still a start.
-
--I discovered this really cool app called Anki, it is a flashcard app that syncs across mobile and pc. It’s has spaced repitition, in other words if you get an answer right it won't show that card again for an extended period of time, If you get it wrong however it will show you that card again in a shorter period of time. This really helps me because I tend to forget basics after I've studied them but with this app I can resolve that.
-
-# Sprint Post
-
-Monday 
+### Monday 
 
 ---
 
@@ -52,24 +38,24 @@ assessment where we have to choose a box and then break into it. The goal is to
 gain the highest level of authority in the box. It's  a big step up the projects we've had and is
 definitely a plunge into the deep end. I followed along as best as I could but I know that this deliverable will definitely test me. The notes I took down are a bit hard to read since I write one-liners in the interest of time.
 
-![Sprint%20Post/Untitled.png](Sprint%20Post/Untitled.png)
+{{<image src="/img/Wk3Arti1.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 It was hard to digest all of the information in Jason's demonstration. Although I understand what happened, it's still a lot of information to process. Even though this deliverable will be incredibly difficult, I am looking forward to it since it will be even better when I overcome it. Google, YouTube and the stack skills will be my most visited sites, I can already tell. It is also great practice for the assignment at the end where we will have to break into another system. 
 
 I still need to learn how to use things like burp suite, vim, and Metasploit. Another interesting point that Larry pointed out is that we should be up to level 15-20  in both bandit and Natas in order to really get a good understanding. I am only up to level 4 in Natas and level 6 in Bandit. I will focus on getting that done as soon as possible. We also tried our hand at the beginner Box, it was the Basic pen testing 1 box on Vulnhub. I wasn't able to do much at University because the demonstration was long and I spent most of my time trying to understand why certain things were done. For the most part I spent the time inspecting the box using nmap as well as looking at the source web app. Luckily for me (and the rest of the class), Yukari had not only recorded, but also uploaded the whole process of Jason rooting the Wakanda box to her YouTube channel.
  
 
-![Sprint%20Post/Untitled%201.png](Sprint%20Post/Untitled%201.png)
+{{<image src="/img/Wk3Arti1.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 When I got home I worked on the machine some more.  I realised with some hints form Anthony in class that the box was running FTP. I simply looked up the exploit on the Metasploit database and filled out the options.
 
-![Sprint%20Post/Untitled%202.png](Sprint%20Post/Untitled%202.png)
+{{<image src="/img/Wk3Arti1.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 Using metasploit didn't work at first but after using a YouTube video I was able to get into the box. It turned out I was inputting a value in the wrong place. After that I used the "whoami" command to observe my privilege level. It was root and so I had cracked the box.  I see now why it was a beginner task but I'm glad I'm happy I cracked it, especially because I had Kick-boxing that night so I didn't have much time to work on it. 
 
  
 
-Tuesday
+### Tuesday
 
 ---
 
@@ -85,7 +71,7 @@ I talked to Max about my experiences with my basic pen testing 1, he usually giv
 
 In fact Max was actually the one who one who challenged me with the Mr Robot box. I loved the show and more importantly he had asked me if I wanted a challenge. I did want a challenge, firstly, because it would would boost my confidence doing it, and secondly, because I would learn a lot in the process. I did start the Box and it was pretty fun. I'll admit, the content was very interesting and I low-key spent more time on it than I should of. I did manage to get the first flag of the box which was good, it was simply in the robots.txt file of the site. I though that was pretty comical since the box is called "Mr. Robot". There were 3 flags (the box called them "keys") in total for me to get. I wasn't able to do much today since I spent quite some time figuring out how to get the box running and more so because I had work. The important thing was that I had started and that I already had the first key.
 
-Wednesday
+### Wednesday
 
 ---
 
@@ -101,7 +87,7 @@ The reason for that being a mistake was simply because Burp suite didn't work on
 
 ![Sprint%20Post/Untitled%207.png](Sprint%20Post/Untitled%207.png)
 
-Thursday
+### Thursday
 
 ---
 
@@ -117,7 +103,7 @@ You have to keep the openvpn script running.
 
 I already had the IP address of the website, so I simply would use nmap to investigate for any open and/or vulnerable. When I did so I'd go to the shell where I connected to openvpn, use Ctrl+C and then use Nmap. My hypothesis was that when I Initially connected to the vpn, it would stay open. But whenever I did the Nmap wouldn't get results that I wanted. Thankfully in today's class, Max spotted my mistake and let me know that I had to open another terminal and use Nmap there. Luckily I had that error fixed before work so that the next day I could be more productive.
 
-Friday 
+### Friday 
 
 ---
 
@@ -149,7 +135,7 @@ One of my biggest problems today was documentation, more so in terms of the writ
 
 This was certainly a big task, regrettably my plans at the beginning of the week to work on things like Natas, bandit, or the Vulnerversity box were unsuccessful. Even with my schedule, unlike the previous assignments I couldn't break this down into smaller tasks because I don't know how long I will need to finish it. Therefore, I was fine with putting things like my Linux+ study, Natas on hold because I am still learning with this deliverable and it is also great practice for the next 2 weeks.
 
-Saturday
+### Saturday
 
 ---
 
@@ -175,7 +161,7 @@ Overall, I am very proud of my efforts for this week. There are things that I ne
 
 ![Sprint%20Post/Untitled%2013.png](Sprint%20Post/Untitled%2013.png)
 
-Sunday 
+### Sunday 
 
 ---
 
@@ -185,4 +171,3 @@ I also spent a lot of the day helping out Mihailo and anyone else who needed hel
 
 ![Sprint%20Post/Untitled%2014.png](Sprint%20Post/Untitled%2014.png)
 ### Conclusion
-There are definately things for me to improve upon, mostly procrastination during study time. However compared to week 2, I have progressed a lot and I am proud of that. I've had so much fun working with my group for the deilverable. I also cannot state just how much I am learning each day thanks to this summer studio. Furthermore, I'm making sure to balance life by doing things like diving and Kick-boxing so to ensure I don't waste my youth. And lastly I cannot wait for the ninja night from Sectalk and the same goes for Bsides which I hav already bought my ticket for. Until then, peace out! 
