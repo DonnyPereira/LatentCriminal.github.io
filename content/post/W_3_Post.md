@@ -51,7 +51,7 @@ After this, we all formed groups again. I like how we couldn't be in a group wit
 
 We then practised the war games which was really good. We were introduced to the OWASP juice shop which was an awesome resource. It combined many wargames into a realistic experience where we had to both find the location of the flag as well as also capture it. I solved the SQL injection and due to Max's affection for me, I was chosen as tribute to demonstrate. It was a simple injection, most people only got confused when trying to figure out what to use for the admin field. They eventually realised that the same SQL logic could be used for the password and username as both needed to be true. My demonstration was a bit rocky since I typed the code wrong . Also, although I understood what I was doing, I didn't understand it enough to clearly articulate it in a manner that everyone could understand.
 
-I also created my own instance at eatadick.herokuapp.com, Max said I had to post this URL on my sprint so here it is, #NoRegrets. It isn't the most majestic name but it is easy to remember and also details my feelings towards websites that have too many restriction on passwords.
+I also created my own instance at eata@!*#.herokuapp.com, Max said I had to post this URL on my sprint so here it is, #NoRegrets. It isn't the most majestic name but it is easy to remember and also details my feelings towards websites that have too many restriction on passwords.
 
 {{<image src="/img/Wk3Arti1.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
