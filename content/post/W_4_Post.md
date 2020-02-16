@@ -3,7 +3,7 @@ title = "Week 4 Reflection"
 date = "2020-02-16"
 author = "Donny"
 cover = ""
-description = "A reflection of the progress made in week 3"
+description = "A reflection of the progress made in week 4"
 +++
 
 ### Introduction 
