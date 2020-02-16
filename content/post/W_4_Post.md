@@ -6,7 +6,7 @@ cover = ""
 description = "A reflection of the progress made in week 3"
 +++
 
-### SLO1 — Introduction 
+### Introduction 
 The theme of this week is boot2root.
 
  This week we root our first box. Rather than a simple ctf,the challenge involves many techniques with end results. There are many methods to root the box and in this weeks sprint is the Writeup that details my method given by a link to the next post at the bottom of the page.
