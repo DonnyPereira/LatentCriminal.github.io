@@ -1,9 +1,9 @@
 +++
-title = "Week 3 Sprint evaluation"
-date = "2020-02-09"
+title = "Mr Robot Box WriteUp"
+date = "2020-02-16"
 author = "Donny"
 cover = ""
-description = "A reflection of the progress made in week 3"
+description = "Write up of the Mr Robot box on tryHackMe"
 +++
 
 # Mr Robot
