@@ -1,5 +1,5 @@
 +++
-title = "Mr Robot Box WriteUp"
+title = "Robot Box WriteUp"
 date = "2020-02-16"
 author = "Donny"
 cover = ""
