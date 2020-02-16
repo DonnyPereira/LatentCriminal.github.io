@@ -1,6 +1,6 @@
 +++
 title = "Week 4 Reflection"
-date = "2020-02-16"
+date = "2020-02-17"
 author = "Donny"
 cover = ""
 description = "A reflection of the progress made in week 4"
@@ -9,7 +9,7 @@ description = "A reflection of the progress made in week 4"
 ### Introduction 
 The theme of this week is boot2root.
 
- This week we root our first box. Rather than a simple ctf,the challenge involves many techniques with end results. There are many methods to root the box and in this weeks sprint is the Writeup that details my method given by a link to the next post at the bottom of the page.
+ This week we root our first box. Rather than a simple ctf,the challenge involves many techniques with end results. There are many methods to root the box and in this weeks reflection post is the Writeup that details my method given, access it via the main page or by the link to the next post at the bottom of this page.
 
 
 
@@ -163,4 +163,6 @@ I spent most of the day doing my write-ups and finishing my sprint/reflection fo
 I also spent a lot of the day helping out Mihailo and anyone else who needed help in general. He is really smart but he puts himself down a lot and that stops him achieving which is a shame. Luckily both me and David were able to convince him to keep going. Soon enough even he was able to root the box. 
 
 {{<image src="/img/Wk4Arti16.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 ### Conclusion
+In hindsight Max was right when he said the benefit of doing this box would be me learning a lot. The challenge is very different to that of the general ctf's I have been doing, but I do enjoy it more. I am so proud of myself and the others for completing this box, no doubt we are all more competant than we are before. I'll be looking forward to my next challenge in week 5.
