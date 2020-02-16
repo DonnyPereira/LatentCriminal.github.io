@@ -1,6 +1,6 @@
 +++
 title = "Robot Box WriteUp"
-date = "2020-02-16"
+date = "2020-02-17"
 author = "Donny"
 cover = ""
 description = "Write up of the Mr Robot box on tryHackMe"
