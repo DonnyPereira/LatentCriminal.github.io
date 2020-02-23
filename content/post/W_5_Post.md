@@ -97,11 +97,11 @@ Today was a really cool day. Two speakers from Deloitte Australia; Peter Westein
 
 I made sure to take notes down as best I could. One of the things that really struck me was the mindset. The speakers informed us that with red team operations, the point is to think like a criminal and that it is like a real game of strategy. 
 
-{{<image src="/img/Wk5Arti9.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti8p5.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 This was actually one of the things that drew me to cybersecurity, the warfare, not just restricted to the attacking of programs/systems but things like physical attacks, e.g. using a Wi-Fi pineapple to steal credentials or using Pinterest for intel on the layout of a building. Even things like dressing up in high-visibility clothing to look like a maintenance worker. After the talk finished, we all participated in a ctf that the speakers introduced. I was a bit slow to get into it due to the myriad of problems with the VMware on my laptop, although thanks to Max and the speakers, I was able to rectify the problem. No one managed to achieve root that I know of. Me and David worked together and managed to get pretty far in that we both retrieved the deleted git hub files.
 
-{{<image src="/img/Wk5Arti10.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti9.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 I also signed up for the Ninja night next Tuesday night hosted by Sectalks. This will be our first official extra-curricular  CTF. I am so excited because Max and a handful of people from the class will be also be going. Hopefully, we do well in the ctf and I get to meet some more interesting people. I'll make sure to blog it for next week and If I get a good photo, I'll put it up on my LinkedIn and twitter as well. I might even see a few of the people from the previous Sectalks night a few weeks back.
 
@@ -113,17 +113,17 @@ I also signed up for the Ninja night next Tuesday night hosted by Sectalks. This
 At this point I had shell access and some valuable information in how to get user shell access. There was a drop in but I didn't go because the VMware on my laptop was annoying and I am way more productive on my desktop at home. 
 
 The server got reset once again forcing me out of my shell for a good 10 minutes and forcing me to  connect to the VPN once again. I made sure to keep the Shoutbox tab open on my second monitor to cancel any future reset attempts.
-{{<image src="/img/Wk5Arti9.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti10.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 I had made a lot of progress in terms of the file I found, I had even extracted important information from it. I didn't really understand the extraction tool I was using, so I consulted the man page.
 
-{{<image src="/img/Wk5Arti10.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti11.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 Upon doing so I had the information I needed to pretty much get authorized access to the user shell. The information wasn't in a form that would allow to access the user shell directly so I had to do some work on it and figure out also how to use said information to gain access. Due to my inexperience with the tools and the lack of a man page or documentation for one of the required tools. What should have been a quick and decisive attack, turned into hours of hell. I spent so much time researching the tool which will be in my Write-up once the box is retired, and I ended up getting no where. In the end I had to stop and go to work. Even with help from Philip I still could not get it to work, nevertheless I was determined to figure out the problem the next day.
 
 On a more positive note, Several of the students in my class, myself included, banded together and found a place to stay in for Bsides in Canberra. It was a good place, three double beds for 6 people, for around $123 each. Furthermore, it was only a 10 minutes walk from the venue for Bsides. This was a really great turnout because I got my ticket straight away and it would be good to go with some people I already know. Its also beneficial in terms of cost-effectiveness. We also organised transportation via grey line coaches.
 
-{{<image src="/img/Wk5Arti11.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti11p5.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### Saturday
 
