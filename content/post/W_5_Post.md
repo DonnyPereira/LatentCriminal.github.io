@@ -113,17 +113,17 @@ I also signed up for the Ninja night next Tuesday night hosted by Sectalks. This
 At this point I had shell access and some valuable information in how to get user shell access. There was a drop in but I didn't go because the VMware on my laptop was annoying and I am way more productive on my desktop at home. 
 
 The server got reset once again forcing me out of my shell for a good 10 minutes and forcing me to  connect to the VPN once again. I made sure to keep the Shoutbox tab open on my second monitor to cancel any future reset attempts.
-{{<image src="/img/Wk5Arti11.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti9.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 I had made a lot of progress in terms of the file I found, I had even extracted important information from it. I didn't really understand the extraction tool I was using, so I consulted the man page.
 
-{{<image src="/img/Wk5Arti12.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti10.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 Upon doing so I had the information I needed to pretty much get authorized access to the user shell. The information wasn't in a form that would allow to access the user shell directly so I had to do some work on it and figure out also how to use said information to gain access. Due to my inexperience with the tools and the lack of a man page or documentation for one of the required tools. What should have been a quick and decisive attack, turned into hours of hell. I spent so much time researching the tool which will be in my Write-up once the box is retired, and I ended up getting no where. In the end I had to stop and go to work. Even with help from Philip I still could not get it to work, nevertheless I was determined to figure out the problem the next day.
 
 On a more positive note, Several of the students in my class, myself included, banded together and found a place to stay in for Bsides in Canberra. It was a good place, three double beds for 6 people, for around $123 each. Furthermore, it was only a 10 minutes walk from the venue for Bsides. This was a really great turnout because I got my ticket straight away and it would be good to go with some people I already know. Its also beneficial in terms of cost-effectiveness. We also organised transportation via grey line coaches.
 
-{{<image src="/img/Wk5Arti13.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti11.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### Saturday
 
@@ -133,13 +133,13 @@ The goal for today was to obtain user.txt. I don't think I'll be able to achieve
 
 The setback was as such. On Friday, I had found a certain folder. As Jason had hinted on Monday this is due to the file structure of linux. Once again due to the restrictions of Hack The Box I cannot show the artifacts necessary to illustrate my point. The Write-up will be available however, only after the box is retired as per the rules of the site. The basic problem is as follows. I was trying to get user shell access, I knew how to do it but there was a tool that I needed to.
 
-{{<image src="/img/Wk5Arti14.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti12.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 I had tried using this tool but always got an error. I usually restrict myself to not asking for help until I have exhausted all options which is what I did today. I had looked far and wide on the internet, but in the end, regardless of which solution I tried, the tool always gave me the same error. When I used other tools, I also got errors. Because of this setback I did not go to the gym, I really wanted to get the user shell.
 
  In hindsight I realise this was a mistake because I had dragged down another commitment with me. It would have been better to go to the gym and get my mind of the box. Finally when I exhausted all available means I contacted Jason. At that moment I figured out it was the way I was input the data into the tool that caused the error as shown above. This mistake took a lot of time due to the enumeration process I undertook to overcome it. Once I figured it out and input the data in correctly, I had all I needed to own user.txt.
 
-{{<image src="/img/Wk5Arti14.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti13.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 After I got this I was relieved because I could got to work and not worry about getting user.txt. All I had to do was touch up my reflection and I was finished for this week. On a side note, I also bought a hack the box T-shirt, I really like cyber security merch e.g. stickers and patches. I'll also get the sticker to put on my laptop, but that's for later.
 ### Sunday 
@@ -148,9 +148,11 @@ After I got this I was relieved because I could got to work and not worry about 
 
 I had managed to get the user shell and thus access to user.txt yesterday so I just focused on polishing my reflection for most of today. It was hard since I .On Sundays, I have tried to use the day to try to plan out the rest of my week. I do this by making a schedule which takes some time to actually do properly. I use Google calendar which is a basic scheduler. In my opinion, it works pretty well, especially since I have to balance work, University, and other extra curricular activates. 
 
-{{<image src="/img/Wk5Arti15.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti14.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
-Furthermore, since O'day was coming up, I was thinking of joining the UTS Oztag team. I really liked Oztag in school although I never played comp which was a shame. For the longest time I've been wanting to play a team sport, I had looked at it last year but I missed sign up so I didn't get in. I only have two years of University left and I don't really want to leave without playing at least one team sport. Luckily for me, I had a mate that I met during the tragedy that was Routing and Switching essentials. He was joining too and was already training, after talking a bit we just basically decided to go for it since O'day was close and we would both be there.
+Furthermore, since O'day was coming up, I was thinking of joining the UTS Oztag team. I really liked Oztag in school although I never played comp which was a shame. For the longest time I've been wanting to play a team sport, I had looked at it last year but I missed sign up so I didn't get in. I only have two years of University left and I don't really want to leave without playing at least one team sport. Luckily for me, I had a mate that I met during the tragedy that was Routing and Switching essentials. He was joining too and was already training, after talking a bit we just basically decided to go for it since O'day was close and we would both be there.{{<image src="/img/Wk5Arti15.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
+
 
 ### Conclusion
 This week went really well in my opinion although things got a little hard towards the end. Other than the problems with the box itself like resets, my ability to progress was slowed down due to my mistakes. Although I accept my mistakes and will learn from them, I need to ensure that I don't sacrifice other things like going to the gym just because I won't be able to get root early. I realised that if I do things like that, I not only don't do well with finishing my box, but I also ensure that I am not dragging down my other commitments.
