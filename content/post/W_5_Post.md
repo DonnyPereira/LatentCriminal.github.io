@@ -1,8 +1,8 @@
 +++
-title = "Week 4 Reflection"
+title = "Week 5 Reflection"
 date = "2020-02-23"
 author = "Donny"
-cover = "img/RBArti14.PNG"
+cover = "img/Wk5ArtI13.PNG"
 description = "A reflection of the progress made in week 4"
 +++
 
