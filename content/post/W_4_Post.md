@@ -9,7 +9,7 @@ description = "A reflection of the progress made in week 4"
 ### Introduction 
 The theme of this week is boot2root.
 
- This week we root our first box. Rather than a simple ctf,the challenge involves many techniques with end results. There are many methods to root the box and in this weeks reflection post is the Writeup that details my method given, access it via the main page or by the link to the next post at the bottom of this page.
+ This week we root our first box. Rather than a simple ctf,the challenge involves many techniques with end results. There are many methods to root the box and in this weeks reflection post is the Writeup that details my method given, access it via the main page or by the link to the next post at the bottom of this page. WEEk 3's reflection can be found at the bottom of that page.
 
 
 
