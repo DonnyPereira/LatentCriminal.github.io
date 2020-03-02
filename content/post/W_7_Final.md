@@ -67,7 +67,7 @@ human error, lack of information security knowledge, utilisation of outdated sys
 
 ## SLO 2 – Apply design and systems thinking to respond to a defined or newly Identified problem
 
-{{<image src="/img/Wk7Arti3.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/Wk5Arti0.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 ### Week 2
 
