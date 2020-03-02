@@ -108,8 +108,8 @@ The biggest problem I faced when trying to implement this methodology was inabil
 ### Week 2
 
 - The theme this week was web application penetration testing. In terms of application of technical skills, I applied such skills by attempting and completing a number of Linux Capture the flags (CTFs). These CTFs were the Bandit challenges on [OvertheWire.com](http://overthewire.com). The aim was to use this resource to better understand the Linux system so that I could tackle the problems in the later weeks when Kali linux would be utilised.
-- I also dual booted my pc with CentOS as I was studying the Linux+ exam which is based on the CentOS system. The only problem I faced was that I could not get the wi-fi to work with CentOS when I
-- Flags Captured and write-ups
+- I also dual booted my pc with CentOS as I was studying the Linux+ exam which is based on the CentOS system. The only problem I faced was that I could not get the wi-fi to work with CentOS when I was at University.
+- Flags Captured and write-ups on Bandit:
 
 {{<image src="/img/Wk7Arti7.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
