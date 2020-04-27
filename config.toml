@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Hello Friend NG"
+title   = "Den of The Don"
 
 DefaultContentLanguage = "en"
 
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Donny"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "cat Welcome.txt"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -104,7 +104,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "dowsenpereira@gmail.com"
 
   [[params.social]]
     name = "github"
