@@ -2,7 +2,7 @@
 title = "Week 6 Reflection"
 date = "2020-03-01"
 author = "Donny"
-cover = "img/Wk6ArtI26.PNG"
+cover = "img/Wk6ArtI26.png"
 description = "A reflection of the progress made in week 6"
 +++
 
