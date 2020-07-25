@@ -15,7 +15,9 @@ This week - week 6, is the last week of our 6 week course. It went by so quick a
 
 The theme for today is "size matters". So, the day started as the week normally did. We all came to class and Jason debriefed all of us on what the day and rest of the week would consist of. Some people were late so the stand up meeting was done around 11. This was officially the last week of the course sadly. For the deliverables we were told that we have to submit our week 6 reflection as well as a full write-up of our first box that we started in week 5. The write-up was restricted in that we had to make sure it was in a password protected pdf to so that no one violated the rules of HackTheBox. 
 
-{{<image src="/img/Wk6Arti0.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
+{{< image src="/img/Wk6Arti0.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 
 Jason also gave us a particular format to follow when compiling the write-up, It was different to the way I'd normally compile my right up. It was more formal, And much more systematic. I like how we have to put it in this new format because Even after the studio ends, I plan to do many more boxes and if allowed, post write-ups on my blog. So it's a good idea to get into the habit of making a proper write-up.
 
