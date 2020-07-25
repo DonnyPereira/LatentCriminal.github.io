@@ -17,6 +17,8 @@ The theme for today is "size matters". So, the day started as the week normally 
 
 
 {{< image src="/img/Wk6Arti0.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+<img src="/img/Wk6Arti0.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 
 
 Jason also gave us a particular format to follow when compiling the write-up, It was different to the way I'd normally compile my right up. It was more formal, And much more systematic. I like how we have to put it in this new format because Even after the studio ends, I plan to do many more boxes and if allowed, post write-ups on my blog. So it's a good idea to get into the habit of making a proper write-up.
