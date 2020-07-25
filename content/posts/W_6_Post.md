@@ -17,7 +17,7 @@ The theme for today is "size matters". So, the day started as the week normally 
 
 
 
-<img src="/img/Wk6Arti0.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<img src="/img/Wk6Arti0.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 
 
