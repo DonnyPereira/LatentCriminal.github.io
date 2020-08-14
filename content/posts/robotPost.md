@@ -12,7 +12,7 @@ description = "Write up of the Mr Robot box on tryHackMe"
 
 As soon as the site was live, I spent an obscene amount of time on the actual content almost forgetting my task was to hack the box. Recalling the pent tester methodology below, the first step requires Information gathering. 
 
-![](/img/RBArti0.png)
+{{![](/img/RBArti0.png)}}
 
 
 
