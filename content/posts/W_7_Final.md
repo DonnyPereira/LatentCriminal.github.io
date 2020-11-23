@@ -10,7 +10,15 @@ description = "A reflection of the progress made in week 6"
 # Introduction
 
 ---
-["/img/hello.jpg"]
+["/hello.jpg"]
+{{<image src="/hello.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+["/hello.JPG"]
+{{<image src="/hello.JPG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
+["/hello.jpeg"]
+{{<image src="/hello.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+["/hello.JPEG"]
+{{<image src="/hello.JPEG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 I can only describe my time in this Studio as one-of-a-kind. I can say without fear of conviction that I came into the studio with very little or rather no knowledge of the subject material. I did however have a few goals at the beginning of the studio:
 
