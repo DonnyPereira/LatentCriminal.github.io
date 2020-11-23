@@ -11,6 +11,8 @@ description = "A reflection of the progress made in week 6"
 
 ---
 
+{{<image src="/img/Wk7Arti0.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+
 I can only describe my time in this Studio as one-of-a-kind. I can say without fear of conviction that I came into the studio with very little or rather no knowledge of the subject material. I did however have a few goals at the beginning of the studio:
 
 – Gain practical knowledge and experience with penetration testing.
@@ -39,7 +41,6 @@ Each week of the studio offered a different problem for which the students had t
 
 Since I missed the orientation for the first week. This is the week we officially dived into the core information security material, our first steps into developing an offensive mindset. We were greeted 2 speakers, one of which - Robert Mitchell helped us understand the overall nature of cyber security. Robert Mitchell was a very interesting man, currently working at Gitlab, he had had a long career in cyber security. 
 
-{{<image src="/img/Wk7Arti0.PNG" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 Robert's talk was so beneficial as it not only went through the current nature of cyber security but built on it by going through its history, its relation to social culture, and its overall impact on the world past, present and future. He explained how hacking was, in essence, finding vulnerabilities in current systems and also the consequence of human error. Furthermore, the presentation also went through the consequences of failing to recognizing the risk of a cyber attack.
 
