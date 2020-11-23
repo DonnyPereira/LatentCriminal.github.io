@@ -12,6 +12,7 @@ description = "A reflection of the progress made in week 6"
 ---
 
 {{<image src="/img/hello.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{<image src="/img/hello.jpeg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
 I can only describe my time in this Studio as one-of-a-kind. I can say without fear of conviction that I came into the studio with very little or rather no knowledge of the subject material. I did however have a few goals at the beginning of the studio:
 
