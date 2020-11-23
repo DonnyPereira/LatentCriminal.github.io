@@ -12,7 +12,6 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = "A simple and beautiful blog"
-{{< image src="/img/hello.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
