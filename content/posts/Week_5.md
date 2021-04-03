@@ -26,9 +26,9 @@ This week, like the last week, the goal was to work on a box. The box this time 
 
 # Monday
 
-We were told from the onset that both this week and the next will push us to our limits. Although nerve-wracking, I am not too worried about it, even a bit excited. The University subjects I have had until now, and there are some exceptions to this, never really pushed us to learn. The only times we were pushed was when the subject was run badly and we had to compensate by teaching ourselves.   In addition, week 4 was a great catalyst to get us in the mindset for the next 2 weeks. We now are armed with experience, we have had practical experience with the pen-tester methodology, we know how to research better, and we at least have a solid idea of what is expected. We are definitely more confident.
+We were told from the onset that both this week and the next will push us to our limits. Although nerve-wracking, I am not too worried about it, even a bit excited. The University subjects I have had until now, and there are some exceptions to this, never really pushed us to learn. The only times we were pushed was when the subject was run badly and we had to compensate by teaching ourselves. In addition, week 4 was a great catalyst to get us in the mindset for the next 2 weeks. We now are armed with experience, we have had practical experience with the pen-tester methodology, we know how to research better, and we at least have a solid idea of what is expected. We are definitely more confident.
 
-![Wk%205%20Reflection%20331d9a58ae7e42eba80e3273adfb1dee/Untitled.png](Wk%205%20Reflection%20331d9a58ae7e42eba80e3273adfb1dee/Untitled.png)
+{{<image src="/Week5_pen_LifeCyc.png" alt="" position="center" style="border-radius: 8px;" >}}
 
 It was also mentioned that we were getting a visit from Deloitte Services Pty Ltd on Thursday this week. I had never actually heard of this company before, I will definitely allocate a small portion of time this week learning about different companies involved in the cyber security industry since it will be useful to know. The day would consist of a workshop/seminar where the company members would basically tell us more about themselves. To make things interesting, at the end of the seminar, there will be a CTF where all the class members will participate in a race to win. 
 
